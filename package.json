@@ -1,0 +1,21 @@
+{
+  "name": "nft-intelligence-service",
+  "version": "1.0.1",
+  "description": "Advanced AI services for NFT analysis and insights.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sos1hu1/nft-intelligence-service"
+  },
+  "author": "sos1hu1",
+  "license": "MIT",
+  "dependencies": {
+    "nft-chatbot-framework": "1.0.0",
+    "@tensorflow/tfjs-node": "^3.0.0",
+    "node-nlp": "^4.17.0",
+    "axios": "^0.21.1"
+  }
+}
